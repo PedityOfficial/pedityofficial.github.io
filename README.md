@@ -1,2 +1,2 @@
 # pedityofficial.github.io
-Pe
+Pedity Documentation
